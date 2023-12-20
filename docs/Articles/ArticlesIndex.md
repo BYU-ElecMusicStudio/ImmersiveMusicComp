@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tools
+title: Articles
 has_children: true
 nav_order: 2
 ---
