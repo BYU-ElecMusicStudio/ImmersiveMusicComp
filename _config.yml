@@ -9,8 +9,6 @@ aux_links:
 
 logo: "/assets/images/byu-logo.svg"
 
-source: "/docs"
-
 
 
 collections:
@@ -19,17 +17,18 @@ collections:
     output: true
   media:
     permalink: "/:collection/:path/"
-    output: true
+    output: true  
   tools:
     permalink: "/:collection/:path/"
     output: true
-    
+
 just_the_docs:
   collections:
     articles:
       name: Articles
     media:
-      name: Media
+      name: Media    
     tools:
       name: Tools
+
 
