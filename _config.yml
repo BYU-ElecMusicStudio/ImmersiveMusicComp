@@ -9,6 +9,8 @@ aux_links:
 
 logo: "/assets/images/byu-logo.svg"
 
+source: docs
+
 collections:
   articles:
     output: true
