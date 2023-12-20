@@ -1,6 +1,7 @@
 ---
 title: "Research Ideas"
 nav_order: 1
+layout: home
 ---
 # just-the-docs-template
 
