@@ -1,8 +1,3 @@
----
-title: "Research Ideas"
-nav_order: 1
-layout: default
----
 # just-the-docs-template
 
 This a *bare-minimum* template to create a [Jekyll] site that:
