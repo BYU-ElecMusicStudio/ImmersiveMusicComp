@@ -9,7 +9,7 @@ aux_links:
 
 logo: "/assets/images/byu-logo.svg"
 
-source: docs
+source: "/docs"
 
 collections:
   articles:
