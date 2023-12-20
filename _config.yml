@@ -11,10 +11,28 @@ logo: "/assets/images/byu-logo.svg"
 
 source: "/docs"
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
 collections:
   articles:
+    permalink: "/:collection/:path/"
     output: true
   media:
+    permalink: "/:collection/:path/"
     output: true
   tools:
+    permalink: "/:collection/:path/"
     output: true
+    
+just_the_docs:
+  collections:
+    articles:
+      name: Articles
+    media:
+      name: Media
+    tools:
+      name: Tools
+
