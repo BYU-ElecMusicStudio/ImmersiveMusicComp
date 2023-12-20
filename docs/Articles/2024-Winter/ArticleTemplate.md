@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi euismod facilisis
 <iframe
     width="640"
     height="480"
-    src="https://www.youtube.com/watch?v=nDptbIBcRNg"
+    src="https://www.youtube.com/embed/watch?v=nDptbIBcRNg"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
