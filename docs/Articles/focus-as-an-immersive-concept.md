@@ -7,4 +7,6 @@ parent: Articles
 
 # Focus as an Immersive Concept
 
-Content for the "Focus as an Immersive Concept" article.
+*Author(s):* Your Name(s)
+
+> Quick Description Blurb
