@@ -2,7 +2,7 @@
 layout: default
 title: My Test Title
 nav_order: 4
-parent: Article
+parent: Articles
 ---
 # My Test Title
 
