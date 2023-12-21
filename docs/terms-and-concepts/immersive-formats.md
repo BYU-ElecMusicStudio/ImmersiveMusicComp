@@ -16,7 +16,18 @@ permalink: /docs/terms-and-concepts/immersve-formats/
 1. TOC
 {:toc}
 
-## Speaker Configurations | Mono - Stereo - Quad - 5.1 - Octo - 7.1
+## Speaker Configurations
+>Author(s)
+
+>Editor(s)
+
+### Mono 
+### Stereo
+### Quad
+### 5.1
+### Octo
+### 7.1
+### 7.1.4
 
 ## Dolby Atmos
 
