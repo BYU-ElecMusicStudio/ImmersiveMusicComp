@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-
+![ImmersiveImage](/assets/images/BYU-Immersive-Audio.png)
 
 # Immersive Audio Composition
 
