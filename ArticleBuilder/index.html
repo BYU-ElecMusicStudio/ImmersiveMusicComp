@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Markdown Article Formatter</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/easymde/dist/easymde.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #005a9c;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: 20px;
+        }
+        .container .full-width {
+            grid-column: 1 / -1; /* Makes the element span all columns */
+        }
+        .container label {
+            display: block;
+            margin-bottom: 0.5em;
+            color: #333;
+        }
+        .container input, .container select, .container textarea {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        button {
+            display: block;
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: rgb(41, 41, 41);
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+            margin: 0 auto;
+            grid-column: 1 / -1;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+    <script src="https://unpkg.com/easymde/dist/easymde.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Markdown Article Formatter</h1>
+        <h2>BYU Immersive Music</h2>
+    </header>
+
+    <div class="container">
+        <div class="full-width">
+            <label for="title">Article Title:</label>
+            <input type="text" id="title" placeholder="Enter the title here">
+        </div>
+
+        <div>
+            <label for="authors">Author(s):</label>
+            <input type="text" id="authors" placeholder="Enter author names">
+        </div>
+
+        <div>
+            <label for="editors">Editor(s):</label>
+            <input type="text" id="editors" placeholder="Enter editor names">
+        </div>
+
+        <div>
+            <label for="date">Date:</label>
+            <input type="date" id="date">
+        </div>
+
+        <div>
+            <label for="articleNumber">Article Number:</label>
+            <input type="number" id="articleNumber" placeholder="Enter article number" min="1">
+        </div>
+
+        <div >
+            <label for="parentCategory">Parent Category:</label>
+            <select id="parentCategory">
+                <option value="Article">Article</option>
+                <option value="Media">Media</option>
+                <option value="Terms and Concepts">Terms and Concepts</option>
+                <option value="L-ISA Tools">L-ISA Tools</option>
+                <option value="Max Tools">Max Tools</option>
+            </select>
+        </div>
+
+        <div class="full-width">
+            <label for="description">Quick Description Blurb:</label>
+            <textarea id="description" placeholder="Enter a quick description"></textarea>
+        </div>
+
+        <div class="full-width">
+            <label for="markdownEditor">Article Content:</label>
+            <textarea id="markdownEditor"></textarea>
+        </div>
+
+        <button onclick="downloadMarkdown()">Download as Markdown</button>
+    </div>
+
+
+    <script>
+        var defaultContent = 
+`## Section Head 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi euismod facilisis justo a mollis. Curabitur velit purus, tincidunt vitae velit ut, maximus viverra lectus. Vestibulum neque orci, commodo in urna a, placerat consequat urna. Curabitur consectetur, diam maximus egestas viverra, quam mauris convallis urna, et viverra arcu diam ut lorem. Donec congue lorem in magna molestie, nec suscipit ipsum porttitor. Donec id vehicula massa. Quisque sagittis mi ut malesuada eleifend.
+
+## Adding a Link
+
+[School of Music Website](http://music.byu.edu "School of Music Website")
+
+## Adding Video
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/VlR9AAYMa3A?si=K5DWbWxthkmxd5tc" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+</iframe>
+
+
+
+# Heading 1
+## Heading 2
+### Heading 3`;
+
+        var easyMDE = new EasyMDE({ 
+            element: document.getElementById('markdownEditor'),
+            initialValue: defaultContent
+        });
+
+        function downloadMarkdown() {
+            var title = document.getElementById('title').value;
+            var authors = document.getElementById('authors').value;
+            var editors = document.getElementById('editors').value;
+            var date = document.getElementById('date').value;
+            var articleNumber = document.getElementById('articleNumber').value;
+            var parentCategory = document.getElementById('parentCategory').value;
+            var description = document.getElementById('description').value;
+            var content = easyMDE.value();
+
+            var frontMatter = `---
+layout: default
+title: ${title}
+nav_order: ${articleNumber}
+parent: ${parentCategory}
+`;
+
+            if (parentCategory === 'L-ISA Tools' || parentCategory === 'Max Tools') {
+                frontMatter += `grand_parent: Tools\n`;
+            }
+
+            frontMatter += `---
+# ${title}
+
+*Author(s):* ${authors}
+
+*Editors(s):* ${editors}
+
+*Date:* ${date}
+
+> ${description}
+
+${content}`;
+
+            var blob = new Blob([frontMatter], { type: 'text/markdown' });
+            var a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = `${title.replace(/\s+/g, '_')}.md`;
+            a.click();
+        }
+    </script>
+</body>
+</html>
