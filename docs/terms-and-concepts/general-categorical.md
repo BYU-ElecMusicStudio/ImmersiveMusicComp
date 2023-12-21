@@ -8,7 +8,7 @@ permalink: /docs/terms-and-concepts/general-categorical/
 ---
 
 # General - Categorical
-{; .no_toc}
+{: .no_toc}
 
 ## Table of contents
 {: .no_toc .text-delta }
