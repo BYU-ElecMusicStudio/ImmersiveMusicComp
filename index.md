@@ -5,7 +5,7 @@ nav_order: 1
 ---
 ![ImmersiveImage](assets/images/BYU-Immersive-Audio.png)
 
-# Immersive Audio Composition
+# Immersive Music Composition
 
 > A Growing Resource for Composers and Sound Designers
 
