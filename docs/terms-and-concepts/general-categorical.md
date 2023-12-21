@@ -8,9 +8,15 @@ permalink: /docs/terms-and-concepts/general-categorical/
 ---
 
 # General - Categorical
+{; .no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Immersive Audio
-{:toc}
 >Author(s):
 
 >Editor(s): 
@@ -18,7 +24,6 @@ permalink: /docs/terms-and-concepts/general-categorical/
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
 
 ## Spatial Audio
-{:toc}
 >Author(s):
 
 >Editor(s): 
@@ -26,7 +31,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
 
 ## Surround Sound
-{:toc}
 >Author(s):
 
 >Editor(s): 
@@ -34,7 +38,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
 
 ## Periphony
-{:toc}
 >Author(s):
 
 >Editor(s): 
@@ -42,7 +45,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
 
 ## Multichannel Audio
-{:toc}
 >Author(s):
 
 >Editor(s): 
@@ -50,7 +52,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
 
 ## 3D Sound
-{:toc}
 >Author(s):
 
 >Editor(s): 
