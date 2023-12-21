@@ -2,8 +2,7 @@
 layout: default
 title: Article Template
 nav_order: 3
-parent: Winter 2024
-grand_parent: Articles
+parent: Articles
 ---
 
 # Article Title
