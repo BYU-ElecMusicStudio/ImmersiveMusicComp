@@ -8,6 +8,7 @@ parent: Articles
 # Article Title
 
 *Author(s):* Your Name(s)
+*Editors(s):*
 
 > Quick Description Blurb
 
