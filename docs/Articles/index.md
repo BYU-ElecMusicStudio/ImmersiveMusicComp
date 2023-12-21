@@ -8,4 +8,4 @@ permalink: /docs/articles/
 
 # Articles
 
-Content for the Articles section.
+Content for the Articles index.
