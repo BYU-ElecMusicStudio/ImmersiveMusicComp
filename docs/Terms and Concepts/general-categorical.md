@@ -38,18 +38,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
 
 ## Periphony
->Author(s):
+>Author(s): Jonathan Goldberg
 
->Editor(s): 
+Periphony is sound reproduction with independent treatment of vertical and horizontal channels. 
+Learn more here: http://www.aes.org/e-lib/browse.cfm?elib=2012
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
 
 ## Multichannel Audio
->Author(s):
+>Author(s): Jonathan Goldberg
 
->Editor(s): 
+Multichannel audio is audio with multiple independent outputs. These outputs can be used to spacialize sound. People first attempted to produce multichannel audio in the 1880s. Learn more about the history of multichannel audio here: http://www.aes.org/e-lib/browse.cfm?elib=12177
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
+
+## Quadraphony
+>Author(s): Jonathan Goldberg
+
+
+Quadraphony is a kind of multichannel audio with four independent outputs. It was first created by Peter Scheiber in 1968.
+
 
 ## 3D Sound
 >Author(s):
