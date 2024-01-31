@@ -19,6 +19,8 @@ permalink: /docs/terms-and-concepts/technical-terms-and-concepts/
 
 ## Binaural
 
+The word binaural refers to human perception of sound using two ears. Binaural recording is a type of stereo recording that uses information about ear positioning and filtering to create realistic 3-D playback. Audio can be recorded binaurally, often using a mannequin head with two microphones to simulate human ears, or processed digitally using technology such as L-ISA.
+
 ## HRTF
 
 ## Decoupling
