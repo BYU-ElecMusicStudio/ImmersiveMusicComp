@@ -21,6 +21,8 @@ permalink: /docs/terms-and-concepts/persons-and-entities/
 
 ## L-Acoustics
 
+L-Acoustics is a company specializing in the production of loudspeakers, software, and other sound systems. The company is known for popularizing the line array loudspeaker system in the early 1990s. L-Acoustics is also the creator of L-ISA immersive sound technology.
+
 ## Poll Audio
 
 
