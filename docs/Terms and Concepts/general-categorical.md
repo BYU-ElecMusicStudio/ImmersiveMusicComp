@@ -64,3 +64,12 @@ Quadraphony is a kind of multichannel audio with four independent outputs. It wa
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
 
+## Auditory virtual environment (AVE)
+
+Auditory virtual environments (AVEs) are 3-dimensional, immersive virtual spaces. AVEs may also be combined with visual elements.
+
+
+## Extended reality (XR)
+
+Extended reality, or XR, is an umbrella term for technologies that blend real world surroundings with virtual elements to create an immersive user experience. Types of XR include virtual reality (VR), augmented reality (AR), and mixed reality (MR).
+
