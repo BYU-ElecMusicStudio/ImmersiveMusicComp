@@ -17,30 +17,31 @@ permalink: /docs/terms-and-concepts/general-categorical/
 {:toc}
 
 ## Immersive Audio
->Author(s):
+>Author(s): Jinxin Fu
 
->Editor(s): 
+>Editor(s):
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
+A set of criteria defined by the Society of Motion Picture and TV Engineers (SMPTE) for channel-, object- and scene-based surround sound technologies.
+Learn more here: https://www.pcmag.com/encyclopedia/term/immersive-audio
 
 ## Spatial Audio
->Author(s):
+>Author(s): Jinxin Fu
 
->Editor(s): 
+>Editor(s):
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
+Audio amplification and speaker technologies that reproduce the spaciousness of sound in either a real venue such as a live concert or in a fabricated environment created by digital signal processing.
 
 ## Surround Sound
 >Author(s):
 
->Editor(s): 
+>Editor(s):
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
 
 ## Periphony
 >Author(s): Jonathan Goldberg
 
-Periphony is sound reproduction with independent treatment of vertical and horizontal channels. 
+Periphony is sound reproduction with independent treatment of vertical and horizontal channels.
 Learn more here: http://www.aes.org/e-lib/browse.cfm?elib=2012
 
 
@@ -60,7 +61,7 @@ Quadraphony is a kind of multichannel audio with four independent outputs. It wa
 ## 3D Sound
 >Author(s):
 
->Editor(s): 
+>Editor(s):
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, sapien eget tincidunt gravida, nulla eros dignissim nisi, eget pretium nunc sem in purus. Praesent vitae laoreet nulla. Etiam ornare vel neque eget pharetra. Nullam porttitor quam neque, et malesuada massa elementum in. Aenean non lobortis libero. Ut sit amet mollis libero. Suspendisse at ipsum ut ante hendrerit posuere. Praesent non magna vitae dolor suscipit elementum sit amet eget diam. Duis luctus arcu odio, ac vestibulum erat molestie nec.
 
@@ -72,4 +73,3 @@ Auditory virtual environments (AVEs) are 3-dimensional, immersive virtual spaces
 ## Extended reality (XR)
 
 Extended reality, or XR, is an umbrella term for technologies that blend real world surroundings with virtual elements to create an immersive user experience. Types of XR include virtual reality (VR), augmented reality (AR), and mixed reality (MR).
-
