@@ -1,20 +1,20 @@
 ---
 layout: default
-title: My Cool Article
-nav_order: 
+title: My Article Example
+nav_order: 7
 parent: Articles
 ---
-# My Cool Article
+# My Article Example
 
-*Author(s):* 
+*Author(s):* Kevin Anthony
 
 *Editors(s):* 
 
-*Date:* 
+*Date:* 2025-02-18
 
-> 
+> My cool description
 
-## Section Head 
+## Header 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi euismod facilisis justo a mollis. Curabitur velit purus, tincidunt vitae velit ut, maximus viverra lectus. Vestibulum neque orci, commodo in urna a, placerat consequat urna. Curabitur consectetur, diam maximus egestas viverra, quam mauris convallis urna, et viverra arcu diam ut lorem. Donec congue lorem in magna molestie, nec suscipit ipsum porttitor. Donec id vehicula massa. Quisque sagittis mi ut malesuada eleifend.
 
