@@ -36,7 +36,7 @@ For the work of my contemporaries, we similarly discovered that mixing plays a h
 <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/shorts/9fOE4Hd_RiU" 
+    src="https://www.youtube.com/embed/shorts/9fOE4Hd_RiU" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

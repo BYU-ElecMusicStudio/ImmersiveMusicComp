@@ -41,7 +41,7 @@ Here are a few examples to listen to:
 <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=bQHR_Z8XVvI" 
+    src="https://www.youtube.com/embed/watch?v=bQHR_Z8XVvI" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -50,7 +50,7 @@ Here are a few examples to listen to:
 <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=kn3FqCK0wWw" 
+    src="https://www.youtube.com/embed/watch?v=kn3FqCK0wWw" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -59,7 +59,7 @@ Here are a few examples to listen to:
 <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=8PDcD3PoYA4" 
+    src="https://www.youtube.com/embed/watch?v=8PDcD3PoYA4" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
